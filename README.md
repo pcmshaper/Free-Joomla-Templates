@@ -1,5 +1,7 @@
 # Acrostia - Free Onepage Joomla Template
 
+[![Join the chat at https://gitter.im/pcmshaper/Free-Joomla-Templates](https://badges.gitter.im/pcmshaper/Free-Joomla-Templates.svg)](https://gitter.im/pcmshaper/Free-Joomla-Templates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Template Details
 
 PS Acrostia is the perfect one page responsive free Joomla template for corporate, creative studio, portfolio, agency, nonprofit or general business. Template are professional elements in clean-clear-simple design with creative style and smooth navigation. It’s fully responsive design, looks stunning on any device and perfect for showcasing your work.
