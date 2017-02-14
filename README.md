@@ -33,5 +33,5 @@ PS Acrostia is the perfect one page responsive free Joomla template for corporat
 * Powerful admin panel
 * and more features...
 
-[Demo] (http://demo.pcmshaper.com/joomla/?template=acrostia)
- | [Download] (http://www.pcmshaper.com/joomla-templates/acrostia)
+[Demo] (http://joomla.pcmshaper.com/?template=acrostia)
+ | [Download] (https://pcmshaper.com/joomla-templates)
